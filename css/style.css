@@ -1,0 +1,40 @@
+nav a img {
+    height: 50px;
+}
+.jumbotron-fluid {
+    background-image: url(http://i66.tinypic.com/28am9fs.jpg);
+    background-size: cover;
+    min-height: 300px;
+}
+.container-fluid h1, .container-fluid p {
+    color: white;
+}
+.cobb {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.judul-kajian {
+    font-size: 2rem;
+    margin: 50px;
+}
+.card:hover {
+    -webkit-box-shadow: 3px 7px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 7px 21px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 21px 0px rgba(0,0,0,0.75);
+}
+.dariSiapa {
+    text-decoration: none;
+}
+.link-kartu {
+    font-size: 80%;
+    font-weight: 400;
+}
+.kajian-show {
+    margin: 30px;
+}
+.kilat-title {
+    margin: 50px;
+}
+.kotak-hijau {
+    color: white;
+}
