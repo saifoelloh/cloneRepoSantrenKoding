@@ -6,7 +6,7 @@ nav a img {
     background-size: cover;
     min-height: 300px;
 }
-.container-fluid h1, .container-fluid p {
+.kotak-iklan {
     color: white;
 }
 .cobb {
@@ -45,4 +45,7 @@ nav a img {
 .kotak-mondok {
     margin-bottom: 50px;
     margin-top: 50px;
+}
+.kotak-kontak {
+    color: black;
 }
